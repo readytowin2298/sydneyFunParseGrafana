@@ -1,0 +1,14 @@
+Subscriber	Sub Score	Service Plan	Sub Max RX	Sub Max TX	Number of Speed Tests 	AP	AP Score	AP Sub Count	AP Peak RX	AP Peak TX	CBRS
+
+Edith-Padron-superlink35-125116759	21.13	superlink35	25.23 Mb	1.21 Mb	0	AP-CNEP3K-5-CN90-288-1.COTTONPATCH_10.0.12.35	79.70	14	112.33 Mb	26.80 Mb	None
+Arthur-Lane-premiumlink20-125092522	25.53	premiumlink20	18.72 Mb	848.83 kb	0	AP-RFE60-225.NEMO_10.5.52.15	83.96	5	94.02 Mb	76.11 Mb	None
+Shawlyn-Fraughton-superlink35-125225271	26.52	superlink35	23.08 Mb	1.21 Mb	0	UNKNOWN	78.78	UNKNOWN	1.15 Gb	1.01 Gb	None
+Bill-Goodman-extralink-125170031	27.57	extralink	29.33 Mb	3.22 Mb	0	AP-URM5-180.1708_10.6.4.13	76.72	20	143.82 Mb	40.14 Mb	None
+Payten-Luce-premiumlink20-125207988	28.13	premiumlink20	20.63 Mb	510.77 kb	0	AP-CNEP3K-5-CN90-288-1.JOSHUA_10.11.100.26	77.79	26	189.95 Mb	29.63 Mb	None
+William-Sherrard-premiumlink20-125122300	28.57	premiumlink20	20.95 Mb	536.98 kb	0	UNKNOWN	78.78	UNKNOWN	1.15 Gb	1.01 Gb	None
+Araeceli-Reta-premiumlink20-125094225	29.07	premiumlink20	42.91 Mb	10.03 Mb	0	AP-UAP5-000.380_10.7.60.10	78.16	20	226.52 Mb	88.23 Mb	None
+Jerry-Crabb-extralink-125134823	29.14	extralink	26.56 Mb	2.24 Mb	0	AP-RFE40-000.SAGINAW_10.7.108.10	73.76	5	66.69 Mb	48.59 Mb	None
+Margie-Kopf-extralink-12504788	30.00	extralink	30.92 Mb	1.16 Mb	0	AP-UAP5-030.PECANVALLEY_10.11.116.11	69.02	14	108.46 Mb	27.57 Mb	None
+Claudia-Garcia-ultralink-125071438	30.00	ultralink	39.99 Mb	773.82 kb	0	AP-URM5-240.HWY51_10.0.220.14	74.30	13	63.05 Mb	42.24 Mb	Deployed
+Ayse-Canli-extralink-125083837	30.00	extralink	30.97 Mb	2.52 Mb	0	AP-UAP5-120.COWBOYS_10.6.120.12	79.21	14	77.35 Mb	101.38 Mb	None
+Robin-Howell-megalink50-125150142	30.00	megalink50	31.11 Mb	863.00 kb	0	AP-CNEP3K-5-CN90-000-1.LAKEBROWNWOODSOUTH_10.13.120.10	75.94	10	167.84 Mb	42.36 Mb	None

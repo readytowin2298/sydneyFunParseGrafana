@@ -9,7 +9,7 @@
 // To change subscirber i might say: $("#subscriber").val('Bill Baker')
 
 // Another helpful link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
-// (notice that in the lines of data, the only empty spaces are to seperate columns)
+// (notice that in the lines of data, the only empty spaces are to seperate columns, look into Array.prototype.split())
 
 
 
